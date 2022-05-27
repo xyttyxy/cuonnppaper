@@ -19,9 +19,8 @@
     "achemso10"
     "xcolor"
     "makecell"
-    "xr-hyper"
+    "xr"
     "hyperref"
-    "hypcap"
     "appendix"
     "upgreek"
     "chemmacros"
@@ -40,13 +39,9 @@
     "cleveref"
     "subfig"
     "caption")
-   (TeX-add-symbols
-    "ignorespacesafterend"
-    "thereaction")
    (LaTeX-add-labels
     "sec:intro"
     "fig:scheme"
-    "fig:subset"
     "fig:val_ads"
     "fig:val_close"
     "fig:md_setup"
@@ -57,10 +52,9 @@
     "fig:boo_slab"
     "fig:10x353K10n2i_comp"
     "tab:cluster_com"
+    "fig:conc_grad"
     "fig:thicknumo_111"
     "fig:traj111")
-   (LaTeX-add-environments
-    "subreactions")
    (LaTeX-add-bibliographies
     "ref"))
  :latex)
