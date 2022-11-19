@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "This is a preprint paper. Please refer to the publication for more up-to-date information."
+authors:
+- family-names: "Xia"
+  given-names: "Yantao"
+  orcid: "https://orcid.org/0000-0003-2037-2349"
+- family-names: "Sautet"
+  given-names: "Philippe"
+  orcid: "https://orcid.org/0000-0002-8444-3348"
+title: "Plasma Oxidation of Copper: Molecular Dynamics Study with Neural Network Potentials"
+version: 0.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-11-18
+url: "https://github.com/xyttyxy/cuonnppaper/"
